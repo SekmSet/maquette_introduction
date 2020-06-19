@@ -9,5 +9,6 @@ Par ailleurs, il faut que la maquette soit “accessible”. Lors de la soutenan
 liées à “l’accessibilité”.
 
 
-![Résultat attendu ](./.github/preview/rendu.png)
-![Mon résultat](./maquette-introduction/assets/maquette_introduction-exemple.png)
+![Résultat attendu ](maquette_introduction/assets/maquette_introduction-exemple.png)
+![Mon résultat](./.github/preview/rendu.png)
+
