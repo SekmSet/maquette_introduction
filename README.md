@@ -8,7 +8,8 @@ Vous devez intégrer un player Youtube avec la vidéo de votre choix. Il se peut
 Par ailleurs, il faut que la maquette soit “accessible”. Lors de la soutenance, nous poserons des questions
 liées à “l’accessibilité”.
 
-
+#### Résultat attendu
 ![Résultat attendu ](maquette_introduction/assets/maquette_introduction-exemple.png)
+#### Résultat final
 ![Mon résultat](./.github/preview/rendu.png)
 
