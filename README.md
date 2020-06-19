@@ -1,5 +1,7 @@
 # MAQUETTE D'INTRODUCTION
 
+[Le projet](http://maquette_introduction.sekhmset.me/)
+
 ## Projet
 
 En vous appuyant sur le visuel de la maquette, vous devez intégrer une page en HTML5 et CSS3 conforme
@@ -8,8 +10,11 @@ Vous devez intégrer un player Youtube avec la vidéo de votre choix. Il se peut
 Par ailleurs, il faut que la maquette soit “accessible”. Lors de la soutenance, nous poserons des questions
 liées à “l’accessibilité”.
 
-#### Résultat attendu
+### Résultat attendu
+
 ![Résultat attendu ](maquette_introduction/assets/maquette_introduction-exemple.png)
-#### Résultat final
+
+### Résultat final
+
 ![Mon résultat](./.github/preview/rendu.png)
 
